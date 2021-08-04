@@ -1,0 +1,5 @@
+About to call parser.
+Bad name-part ... skipping to newline.
+Bad street_part (address_line) ... skipping to newline.
+Bad location_part (location_line) ... skipping to newline.
+Parse Successful!
